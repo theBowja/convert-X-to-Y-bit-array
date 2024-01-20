@@ -17,7 +17,10 @@
     "bits",
     "8bit",
     "12bit",
-    "binary"
+    "binary",
+    "array",
+    "int8array",
+    "int12array"
   ],
   "repository": {
     "type": "git",
