@@ -11,6 +11,7 @@
     "int",
     "integer",
     "uint8",
+    "uint12",
     "int12",
     "bit",
     "bits",
