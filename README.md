@@ -4,6 +4,13 @@ Converts an array of X-bit unsigned integers to an array of Y-bit unsigned integ
 Limitations: Javascript bitwise operations work within 32 bits.
 
 ## Usage
+
+Install the npm package with:
+
+```cmd
+npm install convert-x-to-y-bit-array
+```
+
 Import the function:
 ```js
 const convertXtoYbitarray = require("convert-x-to-y-bit-array");
