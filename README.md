@@ -1,14 +1,15 @@
 # convert X to Y bit array
-Converts an array of X-bit unsigned integers to an array of Y-bit unsigned integers
+Converts an array of X-bit unsigned integers to an array of Y-bit unsigned integers.
 
 Limitations: Javascript bitwise operations work within 32 bits.
 
 ## Usage
-
+Import the function:
 ```js
 const convertXtoYbitarray = require("convert-x-to-y-bit-array");
 ```
 
+Use the function:
 ```js
 /**
  * Converts an array of X-bit unsigned integers to an array of Y-bit unsigned integers.
