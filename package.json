@@ -1,0 +1,22 @@
+{
+  "name": "convert-x-to-y-bit-array",
+  "version": "1.0.0",
+  "description": "Converts an array of X-bit unsigned integers to an array of Y-bit unsigned integers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theBowja/convert-X-to-Y-bit-array.git"
+  },
+  "author": "theBowja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theBowja/convert-X-to-Y-bit-array/issues"
+  },
+  "homepage": "https://github.com/theBowja/convert-X-to-Y-bit-array#readme"
+}
