@@ -7,7 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "convert"
+    "convert",
+    "int",
+    "integer",
+    "uint8",
+    "int12",
+    "bit",
+    "bits",
+    "8bit",
+    "12bit",
+    "binary"
   ],
   "repository": {
     "type": "git",
